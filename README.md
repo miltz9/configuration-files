@@ -1,1 +1,1 @@
-# vim configuration file v0.1
+# configurations file v0.1
